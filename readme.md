@@ -1,5 +1,5 @@
 
-# [Laravel 5.8 News Management Api](https://github.com/lukisanjaya)
+# [Laravel 5.8 News Management Api](https://github.com/lukisanjaya/api-laravel-news-elasticsearch-redis-mysql)
 
 Laravel 5.8 REST API (MySQL + Elasticsearch 6.8) with JWT, Caching Redis, Repository Pattern.
 
